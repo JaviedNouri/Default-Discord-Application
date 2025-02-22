@@ -1,0 +1,10 @@
+discord==2.3.2
+discord-py-slash-command==4.2.1
+discord.py==2.3.2
+ffmpeg==1.4
+ffmpeg-python==0.2.0
+py-cord==2.4.1
+pycares==4.3.0
+pycord==0.1.1
+pycparser==2.21
+youtube-dl==2021.12.17
